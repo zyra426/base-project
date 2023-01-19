@@ -19,9 +19,9 @@
     "translate:mo": "wp i18n make-mo ./resources/lang ./resources/lang"
   },
   "devDependencies": {
-    "@roots/bud": "6.6.9",
+    "@roots/bud": "6.6.10",
     "@roots/bud-sass": "^6.6.10",
-    "@roots/sage": "6.6.9",
+    "@roots/sage": "6.6.10",
     "bulma": "^0.9.4",
     "typescript": "^4.9.4"
   },
